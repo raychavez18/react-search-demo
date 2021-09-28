@@ -1,3 +1,15 @@
+# React Serach & Filter Star Wars Data
+This is a demo to show searching and filtering of Star Wars data stored locally.
+
+Built with:<br/>
+React 17.0.2<br/>
+Bootstrap 5.1.1<br />
+Node: 14.17.4<br/>
+Package Manager: npm 7.20.3
+
+To view live demo: http://www.raychavezweb.com/react-search-demo/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
